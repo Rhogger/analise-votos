@@ -30,7 +30,9 @@ pipenv shell
 
 Os notebooks estão em `src/notebooks/`. Abra-os com Jupyter Notebook ou VSCode para executar as análises.
 
-Os datasets estão num drive com link público.
+Os datasets estão num drive com link público, ou baixe em:
+- [Votos 2018]('https://drive.google.com/file/d/1Sg_kAN90uldMl_cZMXpU6GroOwEGc6Z5/view?usp=sharing')
+- [Votos 2022]('https://drive.google.com/file/d/1P-l0wJZIyNT8SW-nqIc58GWLijeDFPl4/view?usp=sharing')
 
 ## Dependências principais
 
